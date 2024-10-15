@@ -1,0 +1,6 @@
+#ignore permission files
+*.pem
+
+#ignore access keys
+ka_reddy_accessKeys.csv
+ka_reddy_credentials.csv
